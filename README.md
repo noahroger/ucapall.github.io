@@ -1,2 +1,2 @@
-# unitedcapitalistalliance.github.io
-Website
+# United Capitalist Alliance
+Website repository
